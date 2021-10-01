@@ -1,2 +1,2 @@
 print("Inside local/main to remote/feature1")
-print("finally now try from main to remote/main")
+print("finally now try print("finally now try from main to remote/main")from main to remote/main")
